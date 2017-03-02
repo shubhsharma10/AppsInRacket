@@ -1,0 +1,19 @@
+TA-1 Name:- Abhay
+TA-2 Name:- Vinay
+
+Design Grade:- A
+Correctness Score:- 13/15
+TA Comments on Design:-
+- Be consistent in defining itemized data
+- dont use "if" when function returns true/false
+- strategy for compare-rosters?
+- use helper function when required
+- 
+
+Student1 CCIS ID:- shubhsharma
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:-
+Presentation Grade:-
+TA Comments on Presentation:-

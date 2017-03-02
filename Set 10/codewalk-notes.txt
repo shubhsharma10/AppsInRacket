@@ -1,0 +1,24 @@
+TA-1 Name:- Shailesh
+TA-2 Name:- Amit N
+
+Design Grade for q1:- A
+Design Grade for q2:- A
+Correctness Score for q1:- 15/15
+Correctness Score for q2:- 15/15
+
+NOTE: Do not provide run function (function with same names) in both files. This causes test cases to fail.
+
+TA Comments on Design for q1:-
+- thobber should react to butotn up only when selected
+
+TA Comments on Design for q2:-
+- behaviour is not correct. on button up, blocks are kept still selected.
+- populate for a cube function traversing cubes list
+
+Student1 CCIS ID:- shubhsharma10
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:- kumaradi
+Presentation Grade:- A
+TA Comments on Presentation:-

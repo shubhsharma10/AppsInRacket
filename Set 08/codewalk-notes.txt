@@ -1,0 +1,24 @@
+TA-1 Name:- Abhilash
+TA-2 Name:- Rahul
+
+Design Grade for q1:- A
+Comments:
+Suggestion: Data definition and template should be together for readability 
+Halting measure for reachables1 needs to consider the graph size
+
+Design Grade for q2:- A
+Comments:
+form-new-clause should use WHERE clause to mention the assumption 
+that clause is never empty
+
+Correctness Score for q1:- 15/15
+Correctness Score for q2:- 15/15
+
+
+Student1 CCIS ID:- shubhsharma10
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:- yogeshgupta90
+Presentation Grade:- A
+TA Comments on Presentation:-

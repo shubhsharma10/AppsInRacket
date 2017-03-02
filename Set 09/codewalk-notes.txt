@@ -1,0 +1,18 @@
+TA-1 Name:- Vinay
+TA-2 Name:- Abhay
+
+Design Grade for q1:- A
+Correctness Score for q1:- 14/15
+
+TA Comments on Design for q1:-
+- class diagram should have association for MetaToy class and Toy interface
+- timer should have been part of only the respective toy class(clock)
+- avoid magic constants
+
+Student1 CCIS ID:- shubhsharma
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:-kumaradi
+Presentation Grade:- A
+TA Comments on Presentation:-
